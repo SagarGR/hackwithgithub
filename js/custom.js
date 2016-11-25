@@ -102,9 +102,9 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/home-bg-slideshow1.jpg", 
-       "images/home-bg-slideshow2.jpg",
-       "images/home-bg-slideshow3.jpg",
+       "images/cats/privateinvestocat.jpg", 
+       "images/cats/total-eclipse-of-the-octocat.jpg",
+       "images/cats/steroidtocat.png",
         ],  {duration: 2000, fade: 750});
     });
   })
