@@ -7,7 +7,7 @@ http://www.tooplate.com/view/2083-steak-house
 */
 
 body {
-		background: #ffffff;
+		background: #transparent;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
 	}
@@ -87,7 +87,7 @@ a:focus {
 /* hover min css */
 .hvr-bounce-to-bottom:before,
 .hvr-bounce-to-top:before {
-  background-color: #ffffff;
+  background-color: #ab2f06;
 }
 
 
@@ -215,7 +215,7 @@ a:focus {
 }
 #home .btn:hover,
 #home .btn:focus {
-  color: #c21500;
+  color: #f3f3f3;
 }
 
 
@@ -247,7 +247,7 @@ a:focus {
 
 .navbar-default .navbar-nav > li a:hover {
     color: #c21500 !important;
-}
+}ff
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -279,7 +279,7 @@ a:focus {
 
 
 /* Feature section */
-#feature .feature-thumb {
+#fefature .feature-thumb {
   background-color: #ffffff;
   position: relative;
   padding: 40px;
